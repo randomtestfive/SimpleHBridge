@@ -1,0 +1,5 @@
+HBridge     KEYWORD1
+
+set         KEYWORD2
+setReversed KEYWORD2
+isReversed  KEYWORD2
